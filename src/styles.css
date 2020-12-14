@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: large;
+}
+input {
+  padding: 1rem;
+  border: 2px solid black;
+  margin: 0.5rem;
+  width: 70%;
+  height: 10px;
+}
+h3 {
+  font-size: x-large;
+  margin: 1rem;
+}
+span {
+  color: #fc8621;
+}
